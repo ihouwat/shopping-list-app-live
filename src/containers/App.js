@@ -67,9 +67,9 @@ class App extends Component {
         favoriteItems: response.favoriteItems,
         groceriesTemplate: response.groceriesTemplate,
         category: window.localStorage.getItem('category') || 'Order Entered',
-        // appIsLoading: null,
+        appIsLoading: null,
       }))
-      // window.sessionStorage.setItem('loadStatus', 'reloading')
+      window.sessionStorage.setItem('loadStatus', 'reloading')
   }
 
   // Generic add grocery method
