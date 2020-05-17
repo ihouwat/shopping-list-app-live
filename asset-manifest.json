@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shopping-list-react-app-live/static/css/main.216097bf.chunk.css",
-    "main.js": "/shopping-list-react-app-live/static/js/main.8c1e2967.chunk.js",
-    "main.js.map": "/shopping-list-react-app-live/static/js/main.8c1e2967.chunk.js.map",
-    "runtime-main.js": "/shopping-list-react-app-live/static/js/runtime-main.e7e456cf.js",
-    "runtime-main.js.map": "/shopping-list-react-app-live/static/js/runtime-main.e7e456cf.js.map",
-    "static/js/2.06a0049b.chunk.js": "/shopping-list-react-app-live/static/js/2.06a0049b.chunk.js",
-    "static/js/2.06a0049b.chunk.js.map": "/shopping-list-react-app-live/static/js/2.06a0049b.chunk.js.map",
-    "index.html": "/shopping-list-react-app-live/index.html",
-    "precache-manifest.8895855605dbac984743c91398b41756.js": "/shopping-list-react-app-live/precache-manifest.8895855605dbac984743c91398b41756.js",
-    "service-worker.js": "/shopping-list-react-app-live/service-worker.js",
-    "static/css/main.216097bf.chunk.css.map": "/shopping-list-react-app-live/static/css/main.216097bf.chunk.css.map",
-    "static/js/2.06a0049b.chunk.js.LICENSE.txt": "/shopping-list-react-app-live/static/js/2.06a0049b.chunk.js.LICENSE.txt"
+    "main.css": "/shopping-list-app-live/static/css/main.216097bf.chunk.css",
+    "main.js": "/shopping-list-app-live/static/js/main.6292a713.chunk.js",
+    "main.js.map": "/shopping-list-app-live/static/js/main.6292a713.chunk.js.map",
+    "runtime-main.js": "/shopping-list-app-live/static/js/runtime-main.6d3ef3c4.js",
+    "runtime-main.js.map": "/shopping-list-app-live/static/js/runtime-main.6d3ef3c4.js.map",
+    "static/js/2.4a084b1b.chunk.js": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js",
+    "static/js/2.4a084b1b.chunk.js.map": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js.map",
+    "index.html": "/shopping-list-app-live/index.html",
+    "precache-manifest.51e2006e13677b648c4bfed476a9f372.js": "/shopping-list-app-live/precache-manifest.51e2006e13677b648c4bfed476a9f372.js",
+    "service-worker.js": "/shopping-list-app-live/service-worker.js",
+    "static/css/main.216097bf.chunk.css.map": "/shopping-list-app-live/static/css/main.216097bf.chunk.css.map",
+    "static/js/2.4a084b1b.chunk.js.LICENSE.txt": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7e456cf.js",
-    "static/js/2.06a0049b.chunk.js",
+    "static/js/runtime-main.6d3ef3c4.js",
+    "static/js/2.4a084b1b.chunk.js",
     "static/css/main.216097bf.chunk.css",
-    "static/js/main.8c1e2967.chunk.js"
+    "static/js/main.6292a713.chunk.js"
   ]
 }
