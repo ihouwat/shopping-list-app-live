@@ -58,7 +58,7 @@ class App extends Component {
   // Methods
   // On mount, get items, completed items, and top ten favorite items
   componentDidMount () {
-    fetch('http://localhost:3000/')
+    fetch('https://quickshopper-backend.herokuapp.com/')
     .then(response => response.json())
     .then(response => 
       this.setState({
@@ -74,7 +74,7 @@ class App extends Component {
 
   // Generic add grocery method
   addToList = (item) => {
-    fetch('http://localhost:3000/additem', {
+    fetch('https://quickshopper-backend.herokuapp.com/additem', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({name: item})
@@ -158,7 +158,7 @@ class App extends Component {
 
   // Acquire grocery item, move item from active to completed list
   onCompleteItem = (completedItem) => {
-    fetch('http://localhost:3000/completeitem', {
+    fetch('https://quickshopper-backend.herokuapp.com/completeitem', {
       method: 'PUT',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
@@ -176,7 +176,7 @@ class App extends Component {
 
   // Fully delete item from whichever list it is in 
   onDeleteItem = (deletedItem, listName) => {
-    fetch('http://localhost:3000/deleteitem', {
+    fetch('https://quickshopper-backend.herokuapp.com/deleteitem', {
       method: 'DELETE',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
@@ -193,7 +193,7 @@ class App extends Component {
 
   // Readd item from completed list to grocery list
   onRecoverItem = (item) => {
-    fetch('http://localhost:3000/recoveritem',{
+    fetch('https://quickshopper-backend.herokuapp.com/recoveritem',{
       method: 'PUT',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
@@ -211,7 +211,7 @@ class App extends Component {
 
   // Remove all completed items from completed List
   onDeleteAllCompleted = () => {
-    fetch('http://localhost:3000/deleteallcompleted',{
+    fetch('https://quickshopper-backend.herokuapp.com/deleteallcompleted',{
       method: 'DELETE',
       headers: {'Content-Type': 'application/json'},
     })
@@ -221,7 +221,7 @@ class App extends Component {
 
     // Readd all completed items to grocery list
   onRecoverAllCompleted = () => {
-    fetch('http://localhost:3000/recoverallcompleted',{
+    fetch('https://quickshopper-backend.herokuapp.com/recoverallcompleted',{
       method: 'PUT',
       headers: {'Content-Type': 'application/json'},
     })
@@ -243,7 +243,7 @@ class App extends Component {
     // Modal close method for grocery list component
     // Saves note to database
    modalClose = (item) => {
-    fetch('http://localhost:3000/addnote',{
+    fetch('https://quickshopper-backend.herokuapp.com/addnote',{
       method: 'PUT',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
