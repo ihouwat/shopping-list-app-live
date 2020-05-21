@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shopping-list-app-live/static/css/main.e5d84d5e.chunk.css",
-    "main.js": "/shopping-list-app-live/static/js/main.27df5bce.chunk.js",
-    "main.js.map": "/shopping-list-app-live/static/js/main.27df5bce.chunk.js.map",
+    "main.js": "/shopping-list-app-live/static/js/main.61e218c0.chunk.js",
+    "main.js.map": "/shopping-list-app-live/static/js/main.61e218c0.chunk.js.map",
     "runtime-main.js": "/shopping-list-app-live/static/js/runtime-main.6d3ef3c4.js",
     "runtime-main.js.map": "/shopping-list-app-live/static/js/runtime-main.6d3ef3c4.js.map",
     "static/js/2.4a084b1b.chunk.js": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js",
     "static/js/2.4a084b1b.chunk.js.map": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js.map",
     "index.html": "/shopping-list-app-live/index.html",
-    "precache-manifest.bb575e95a5889154080448f34bff11b3.js": "/shopping-list-app-live/precache-manifest.bb575e95a5889154080448f34bff11b3.js",
+    "precache-manifest.3b85095b61ee8c82b50947abdf2619c7.js": "/shopping-list-app-live/precache-manifest.3b85095b61ee8c82b50947abdf2619c7.js",
     "service-worker.js": "/shopping-list-app-live/service-worker.js",
     "static/css/main.e5d84d5e.chunk.css.map": "/shopping-list-app-live/static/css/main.e5d84d5e.chunk.css.map",
     "static/js/2.4a084b1b.chunk.js.LICENSE.txt": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6d3ef3c4.js",
     "static/js/2.4a084b1b.chunk.js",
     "static/css/main.e5d84d5e.chunk.css",
-    "static/js/main.27df5bce.chunk.js"
+    "static/js/main.61e218c0.chunk.js"
   ]
 }
