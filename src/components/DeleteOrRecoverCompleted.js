@@ -38,6 +38,7 @@ const classes = useStyles();
           disableFocusRipple
           size='medium'
           color='default'
+          aria-label="menu to delete or recover all"
           aria-haspopup="true"
           aria-controls="delete-recover-menu"
           onClick={handleClick}
