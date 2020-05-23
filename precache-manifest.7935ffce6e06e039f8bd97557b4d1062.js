@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faf6874f89bfcf8899313ff8b7eb4332",
+    "revision": "fc3eef35ba1bba9ad37f4fd6680622f4",
     "url": "/shopping-list-app-live/index.html"
   },
   {
-    "revision": "63939dc3982c4a44ddbe",
+    "revision": "a0fca8015f4c10bde652",
     "url": "/shopping-list-app-live/static/css/main.e5d84d5e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopping-list-app-live/static/js/2.4a084b1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63939dc3982c4a44ddbe",
-    "url": "/shopping-list-app-live/static/js/main.61e218c0.chunk.js"
+    "revision": "a0fca8015f4c10bde652",
+    "url": "/shopping-list-app-live/static/js/main.46610d48.chunk.js"
   },
   {
     "revision": "d36bb5e877bc0c544cc5",
